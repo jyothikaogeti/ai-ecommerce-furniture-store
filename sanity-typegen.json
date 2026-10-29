@@ -1,0 +1,12 @@
+{
+  "path": [
+    "./sanity/queries/**/*.ts",
+    "./actions/**/*.ts",
+    "./hooks/**/*.ts",
+    "./lib/**/*.ts",
+    "./app/**/*.{ts,tsx}",
+    "./components/**/*.{ts,tsx}"
+  ],
+  "schema": "./schema.json",
+  "generates": "./sanity.types.ts"
+}
